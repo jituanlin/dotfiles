@@ -1,0 +1,18 @@
+import = [
+  # uncomment the flavour you want below:
+  "~/.config/alacritty/catppuccin-latte.toml"
+  # "~/.config/alacritty/catppuccin-frappe.toml"
+  # "~/.config/alacritty/catppuccin-macchiato.toml"
+  # "~/.config/alacritty/catppuccin-mocha.toml"
+]
+
+[window]
+  startup_mode = "SimpleFullscreen"
+
+[font]
+  size = 16
+  normal.family = "JetBrainsMono Nerd Font"
+  bold.family = "JetBrainsMono Nerd Font"
+  italic.family = "JetBrainsMono Nerd Font"
+  bold_italic.family = "JetBrainsMono Nerd Font"
+
